@@ -1,0 +1,96 @@
+		@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+
+		body {
+			background-color: MistyRose;
+			font-family: 'Hanna', sans-serif;
+		}
+
+		h1 {
+
+			border-bottom: solid DeepSkyBlue 5px;
+			/* 선의 크기, 선의 종류, 선의 색상 */
+			padding-top: 10px;
+			padding-bottom: 10px;
+			margin: 0px;
+			text-align: center;
+		}
+
+		a {
+			color: black;
+      text-decoration: none;
+
+		}
+
+		.nounderline {
+			text-decoration: none;
+		}
+
+		.outdiv {
+			display: grid;
+			grid-template-columns: 200px 1fr;
+			margin: 0px;
+
+		}
+
+		p {
+			font-size: 22px;
+		}
+
+		.innerdiv1 {
+			border-right: solid DeepSkyBlue 5px;
+			margin: 0px;
+
+
+		}
+
+		.innerdiv2 {
+			padding: 10px;
+		}
+
+		li {
+			padding-bottom: 10px;
+      font-size: 22px;
+
+		}
+
+		img {
+			border: solid black 1px;
+			border-radius: 50%;
+		}
+		table,
+		th,
+		td {
+			border: black 1px solid;
+		}
+
+		@media(max-width:600px) {
+			.outdiv {
+				display: grid;
+				grid-template-columns: none;
+				margin: 0px;
+
+			}
+
+			.innerdiv1 {
+				border-right: none;
+				margin: 0px;
+
+
+			}
+			h1 {
+
+				border-bottom: none;
+			}
+			.container {
+				position: relative;
+				border: 2px solid red;
+			}
+
+
+			iframe {
+				width: 300px;
+				height: 200px;
+			}
+
+
+		}

@@ -1,0 +1,48 @@
+---------------------------기본 명령어------------------------------
+ctrl+a : 전체 선택
+ctrl+c : 복사하기
+ctrl+v : 붙여넣기
+--------------------------------------------------------------6월 일 수업 내용
+CSS Selector Reference
+
+https://www.w3schools.com/cssref/css_selectors.asp
+
+--------------------------------------------------------------
+7월 7일 수업 내용
+
+0. 박스모델 + 그리드
+
+padding-top, bottom, left, right 
+border-top, bottom, left, right 
+margin-top, bottom, left, right 
+
+https://www.w3schools.com/css/css_margin.asp
+https://www.w3schools.com/css/css_boxmodel.asp
+https://www.w3schools.com/css/css_grid.asp
+
+
+1. 글자 크기 
+https://www.w3schools.com/cssref/pr_font_font-size.asp
+
+
+2. 글자 색상
+https://www.w3schools.com/css/css_text.asp
+https://www.quackit.com/css/css_color_codes.cfm  (원하는 색상 찾기)
+
+3. 배경 색상
+https://www.w3schools.com/cssref/pr_background-color.asp
+
+
+4. 폰트 바꾸기 
+https://fonts.google.com/earlyaccess
+
+5. 사진 모양
+https://www.w3schools.com/css/css3_images.asp
+
+
+6. 테이블 꾸미기..
+https://www.w3schools.com/Css/css_table.asp
+
+
+7. HTML Charset
+https://www.rapidtables.com/web/html/html-codes.html
